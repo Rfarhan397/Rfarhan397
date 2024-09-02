@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a project called Forpartum, a platform that connects users with doctors from around the world, enabling them to interact and receive professional advice on health-related concerns.<br>I'm searching on new ideas to create my own product,<br>I'm currently learning State managements and how to code clean using MVM Structure.<br>Feel Free to reach at rfarhan397@gmail.com
+I'm currently working on a project called Forpartum, a platform that connects users with doctors from around the world, enabling them to interact and receive professional advice on health-related concerns.<br>I'm searching on new ideas to create my own product,<br>I'm currently learning..<br>Feel Free to reach at rfarhan397@gmail.com
 
 
 ## 🌐 Socials:
